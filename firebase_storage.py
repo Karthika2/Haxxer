@@ -25,7 +25,16 @@ config = {
     }
 
 
-
+# config = {
+#     "apiKey" : "AIzaSyAx3rxrUmCOESoCdj3NP1x_ITyeC_YYjno",
+#     "authDomain" : "python-test-1235f.firebaseapp.com",
+#     "databaseURL" : "https://python-test-1235f.firebaseio.com",
+#     "projectId" : "python-test-1235f",
+#     "storageBucket" : "python-test-1235f.appspot.com",
+#     "messagingSenderId" : "707011126206",
+#     "appId" : "1:707011126206:web:93df56c96e28b114b48fef",
+#     "measurementId" : "G-8YHDDWVLP7"
+#     }
 
 def firebase_store(path,image_name) :
     """
